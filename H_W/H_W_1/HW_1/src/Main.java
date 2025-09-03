@@ -29,7 +29,7 @@ public class Main {
         System.out.print("Is a even? ");
         System.out.println(a % 2 == 0);
         System.out.print("Is b even? ");
-        System.out.println(b % 2 == 0);
+        System.out.println(b % 2 == 1);
 
 
 
