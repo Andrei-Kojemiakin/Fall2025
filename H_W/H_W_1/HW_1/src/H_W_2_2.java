@@ -9,7 +9,7 @@ public class H_W_2_2 {
         int c = a ;
          a = b ;
          b= c ;
-        System.out.println("a = " +a);
+        System.out.println("a = " +a + " b = " + b);
         System.out.println("b = " +b);
 
     }
